@@ -45,3 +45,7 @@ Ta ukaz neposredno piše v Output Data Register vrat A. Z njim lahko hkrati nast
 
 e)
 Ko pritisnemo črno tipko se segment resetira in začne šteti ponovno od 0. Kot je prikazano v video posnetku.
+
+
+
+KOMENTAR: 7-segmentni display deluje in prikazuje brez hibno imela sva nekaj težav z povezovanjem in iskanjem pinov kateri je kateri ampak sva tudi to odpravila.
