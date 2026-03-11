@@ -1,6 +1,20 @@
 
 # Vaja13-7segment-STM32L1
 
+pinout:
+<img width="703" height="569" alt="image" src="https://github.com/user-attachments/assets/6771a090-20c7-45bd-a1a3-1537162a1a51" />
+
+
+
+
+
+
+
+
+
+
+
+
 ODGOVORI NA VPRAŠANJA:
 
 2.
